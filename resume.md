@@ -2,8 +2,7 @@
 ## Engineer
 
 - <monicamjoyce@gmail.com>
-- 1530 N Formosa Ave #6, Los Angeles CA 90046
-- 2132656783
+- Los Angeles CA
 
 ## Summary
 - Linux Experience: installing, configuring, adjusting, troubleshooting (Debian/Ubuntu Server, Centos)
